@@ -1,0 +1,5 @@
+This is a great problem proposed by Danish computer scientist Peter Bro Miltersen in 2003
+
+There's a great video about it on the famous channel VSauce2: https://www.youtube.com/watch?v=kOnEEeHZp94&ab_channel=Vsauce2
+
+Here's the wikipedia page about it: https://en.wikipedia.org/wiki/100_prisoners_problem
